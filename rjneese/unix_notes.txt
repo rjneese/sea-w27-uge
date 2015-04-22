@@ -1,0 +1,10 @@
+cd <path> Changes the working directory to <path>
+ls <path> Lists the directory content of <path>
+clear Clears screen
+top A program that shows the list of running processes
+mkdir <name> Creates a new directory
+rm <path> deletes files or directory
+mv <path> changes name of file
+cat <file> display file contents
+grep <file> search contents of files
+
